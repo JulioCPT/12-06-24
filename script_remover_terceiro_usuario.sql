@@ -1,0 +1,1 @@
+DELETE FROM `loja_app`.`tbl_clientes` WHERE (`idtbl_clientes` = '3');

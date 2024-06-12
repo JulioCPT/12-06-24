@@ -1,0 +1,1 @@
+UPDATE `loja_app`.`tbl_clientes` SET `numero` = '144' WHERE (`idtbl_clientes` = '2');
